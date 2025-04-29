@@ -13,10 +13,10 @@ stream trailers.
 <br/>UI components, routing, authentication UI (login/signup), display movies and TV shows using TMDB data.
 
 **Backend (Node.js + Express.js):**
-<br/>REST API server for user authentication, favorites management, etc.
+<br/>REST API server for user authentication, search, search history, etc..
 
 **Database (MongoDB):**
-<br/>Store user data (e.g., registered users, watchlist/favorites).
+<br/>Store user data (e.g., registered users, search history).
 
 **TMDB API:**
-<br/>Fetch real-time movie and TV show data: posters, titles, descriptions, ratings, etc.
+<br/>Fetch real-time movie and TV show data: posters, titles, descriptions, etc.
