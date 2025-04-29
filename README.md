@@ -10,13 +10,13 @@ stream trailers.
 ## Key Tech Stack:
 
 **Frontend (React.js):**
-UI components, routing, authentication UI (login/signup), display movies and TV shows using TMDB data.
+<br/>UI components, routing, authentication UI (login/signup), display movies and TV shows using TMDB data.
 
 **Backend (Node.js + Express.js):**
-REST API server for user authentication, favorites management, etc.
+<br/>REST API server for user authentication, favorites management, etc.
 
 **Database (MongoDB):**
-Store user data (e.g., registered users, watchlist/favorites).
+<br/>Store user data (e.g., registered users, watchlist/favorites).
 
 **TMDB API:**
-Fetch real-time movie and TV show data: posters, titles, descriptions, ratings, etc.
+<br/>Fetch real-time movie and TV show data: posters, titles, descriptions, ratings, etc.
