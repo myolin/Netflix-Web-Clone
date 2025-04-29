@@ -1,7 +1,7 @@
 # Netflix Clone
 
-A Netflix clone webiste utilizing MERN stack. Users can browse movies, TV shows and
-stream trailers.
+A Netflix clone webiste utilizing MERN stack. Users can browse movies, TV shows and stream trailers.
+Due to copyright, no actual movie or tv shows can be streamed. Only trailers can be viewed for now.
 
 ## Developed By:
 
