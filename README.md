@@ -23,7 +23,7 @@ stream trailers.
 
 ## Screenshots
 
-<img src="https://github.com/myolin/Netflix-Web-Clone/blob/main/Screenshots/Screenshot-1.png" alt="Screenshot-1" width="500" height="400"/>
+<img src="https://github.com/myolin/Netflix-Web-Clone/blob/main/Screenshots/Screenshot-1.png" alt="Screenshot-1" width="600" height="400"/>
 
-<img src="https://github.com/myolin/Netflix-Web-Clone/blob/main/Screenshots/Screenshot-2.png" alt="Screenshot-2" width="500" height="400"/>
+<img src="https://github.com/myolin/Netflix-Web-Clone/blob/main/Screenshots/Screenshot-2.png" alt="Screenshot-2" width="600" height="400"/>
 
