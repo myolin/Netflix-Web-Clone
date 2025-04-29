@@ -20,3 +20,5 @@ stream trailers.
 
 **TMDB API:**
 <br/>Fetch real-time movie and TV show data: posters, titles, descriptions, etc.
+
+## Screenshots
