@@ -21,6 +21,24 @@ stream trailers.
 **TMDB API:**
 <br/>Fetch real-time movie and TV show data: posters, titles, descriptions, etc.
 
+## Run and Start
+
+### 1. Setup .env file
+
+    PORT=5000
+    MONGO_URI=your_mongo_uri
+    NODE_ENV=development
+    JWT_SECRET=your_jwt_secre
+    TMDB_API_KEY=your_tmdb_api_key
+
+### 2. Run the build locally
+
+    npm run build
+
+### 3. Start the app
+
+    npm run start
+
 ## Screenshots
 
 <img src="https://github.com/myolin/Netflix-Web-Clone/blob/main/Screenshots/Screenshot-1.png" alt="Screenshot-1" width="600" height="400"/>
